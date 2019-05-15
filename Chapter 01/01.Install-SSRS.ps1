@@ -1,0 +1,2 @@
+Install-SPRSService
+Install-SPRSServiceProxy
